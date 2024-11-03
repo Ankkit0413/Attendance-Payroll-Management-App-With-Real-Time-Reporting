@@ -12,11 +12,7 @@ This project is an **Employee Attendance and Payroll Management System** designe
 3. [Project Screenshots](#project-screenshots)
 4. [Technology Stack](#technology-stack)
 5. [How It Works](#how-it-works)
-6. [Installation](#installation)
-7. [Usage](#usage)
-8. [Future Enhancements](#future-enhancements)
-9. [Contributing](#contributing)
-10. [License](#license)
+6. [Usage](#usage)
 
 ---
 
@@ -32,7 +28,7 @@ The Employee Attendance and Payroll Management System automates the attendance a
 
 - **Automated Attendance Tracking**: Captures employee check-in and check-out times and calculates total working hours.
 - **Payroll Calculation**: Automatically computes monthly earnings, deductions for advances, and net pay.
-- **Real-time Dashboard**: Provides a visual summary of employee attendance, working hours, advances, and payroll details through Looker Studio.
+- **Real-time Dashboard**: Provides a visual summary of employee attendance, working hours, advances, & payroll details through Looker Studio.
 - **Flexible Filtering**: Users can filter data by month, location, and department, enabling customized reporting.
 - **Advance Payment Management**: Manages and adjusts advance payments for employees in payroll calculations.
 - **Error Reduction**: Minimizes manual intervention in payroll processing, reducing the chance of errors and improving efficiency.
@@ -73,23 +69,6 @@ This screen shows the attendance status of employees, highlighting who is presen
 
 ---
 
-## Installation
-
-To set up this project:
-
-1. **Clone the Repository**: Clone this GitHub repository to your local machine.
-   ```bash
-   git clone https://github.com/yourusername/attendance-payroll-system.git
-   ```
-
-2. **Connect Google Sheets**: Ensure your Google Sheets document is set up to record employee attendance, payroll, and advance payments data. Link it to the AppSheet app.
-
-3. **Configure AppSheet**: Import the Google Sheets data into AppSheet and configure views for attendance logging and payroll calculations.
-
-4. **Set Up Looker Studio**: Import data from Google Sheets into Looker Studio and create visualizations based on the data. Link filters to enable monthly, location, and department-based reports.
-
----
-
 ## Usage
 
 1. **Log Attendance**: Employees log their in-time and out-time daily. The app automatically updates the total working hours.
@@ -102,36 +81,3 @@ To set up this project:
 4. **Filtering Reports**: Use filters on the Looker Studio dashboard to customize reports by month, department, or location.
 
 ---
-
-## Future Enhancements
-
-- **Automated Notifications**: Add email or SMS notifications for attendance reminders and payroll notifications.
-- **Leave Management**: Integrate a leave management module to handle employee leave requests and integrate them into attendance tracking.
-- **Export Reports**: Allow payroll and attendance reports to be exported as PDF or Excel for record-keeping.
-
----
-
-## Contributing
-
-We welcome contributions to this project! If you'd like to improve this project, please:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes.
-4. Submit a pull request.
-
-For major changes, please open an issue first to discuss your ideas.
-
----
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to explore and use this project as needed. If you have any questions or suggestions, please contact us or open an issue in the repository.
-
----
-
-This README is crafted to provide detailed information about your project while staying organized and professional, making it easy for others to understand, set up, and potentially contribute to the project. Including the Looker Studio link in prominent sections like Project Overview and Usage helps direct viewers to the real-time dashboard efficiently.
