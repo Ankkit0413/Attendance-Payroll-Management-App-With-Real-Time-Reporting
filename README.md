@@ -2,6 +2,8 @@
 
 This project is an **Employee Attendance and Payroll Management System** designed for **Santoshi Construction** to streamline attendance tracking and payroll processing. The system provides real-time reports of working hours, earnings, advances, and net pay for employees, ensuring an accurate and efficient payroll process. 
 
+![Thumbnail of App](https://github.com/Ankkit0413/Attendance-Payroll-Management-App-With-Real-Time-Reporting/blob/main/Attendance%20App.jpg)
+
 [View the Dashboard on Looker Studio](https://lookerstudio.google.com/s/q_-qCXKLdvM)
 
 ---
