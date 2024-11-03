@@ -43,11 +43,13 @@ The Employee Attendance and Payroll Management System automates the attendance a
 
 ### 1. Employee Payroll Report
 This screen displays an overview of employee payroll data, including total hours worked, earnings, advances, and net pay for each employee. 
-![Payroll Report Screenshot](link-to-your-screenshot-image)
+
+![Payroll Report Screenshot](https://github.com/Ankkit0413/Attendance-Payroll-Management-App-With-Real-Time-Reporting/blob/main/SANTOSHI_CONSTRUCTION_REPORTS-3.jpg)
 
 ### 2. Employee Attendance Overview
 This screen shows the attendance status of employees, highlighting who is present and absent, along with their in-time and out-time logs.
-![Attendance Overview Screenshot](link-to-your-screenshot-image)
+
+![Attendance Overview Screenshot](https://github.com/Ankkit0413/Attendance-Payroll-Management-App-With-Real-Time-Reporting/blob/main/SANTOSHI_CONSTRUCTION_REPORTS-1.jpg)
 
 ---
 
